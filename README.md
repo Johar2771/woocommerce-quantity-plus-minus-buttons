@@ -34,7 +34,9 @@ function custom_quantity_input_buttons() {
    }
 }
 add_action('wp_footer', 'custom_quantity_input_buttons');
+
 ## Option 2: Use a Plugin (No Code)
+
 Want a cleaner solution? Try the [WooCommerce Quantity Plus Minus]([url](https://woocommerce.com/products/quantity-buttons-for-woocommerce/)) Plugin.
 
 This plugin automatically adds quantity buttons on product, cart, and shop pages — no code needed.
